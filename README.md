@@ -1,2 +1,1 @@
-# nepali
- 
+This code is to generate Text with MultiHeadAttention method based on Andrej Karpathy's video lecture "Let's build GPT". https://www.youtube.com/watch?v=kCc8FmEb1nY Made minor changes to original code located here to "objectify" the code. https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py
